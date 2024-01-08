@@ -13,12 +13,20 @@ File descriptions
 
 Script to run the files
 
+```
 python Data_API.py raw_file.json
+```
 
+```
 python clean_prep_data.py raw_file.json cleaned_text.json
+```
 
+```
 python Train_model.py cleaned_text.json trained_model_folder
+```
 
+```
 python Eval_model.py trained_model_folder 
 >>> "title of the article"
 
+```
