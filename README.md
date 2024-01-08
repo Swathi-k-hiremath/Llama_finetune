@@ -44,7 +44,7 @@ python Eval_model.py llama-7b-trained
 In a shocking turn of events, Ariana Madix has filed a lawsuit against her ex-husband, Tom Sandoval, in order to force the sale of their shared house. According to court documents obtained by E! News, Madix is seeking to have the property sold and the proceeds divided equally between herself and Sandoval.
 
 
->>>Oil prices rise for the second time this week
+>>> Oil prices rise for the second time this week
 
 Oil prices surged for a second time this week on Thursday, driven by a combination of factors including tight supply and demand fundamentals, geopolitical tensions, and optimism over global economic growth.
 
