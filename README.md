@@ -30,3 +30,20 @@ python Eval_model.py trained_model_folder
 >>> "title of the article"
 
 ```
+
+Example runs
+
+```
+python Data_API.py output2.json
+python clean_prep_data.py output2.json llama_text.json
+python Train_model.py llama_text.json llama-7b-trained
+python Eval_model.py llama-7b-trained
+>>> Ariana Madix Sues Tom Sandoval to Force Sale of Their House
+
+In a shocking turn of events, Ariana Madix has filed a lawsuit against her ex-husband, Tom Sandoval, in order to force the sale of their shared house. According to court documents obtained by E! News, Madix is seeking to have the property sold and the proceeds divided equally between herself and Sandoval.
+
+
+>>>Oil prices rise for the second time this week
+
+Oil prices surged for a second time this week on Thursday, driven by a combination of factors including tight supply and demand fundamentals, geopolitical tensions, and optimism over global economic growth.
+
