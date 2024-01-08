@@ -37,6 +37,7 @@ Example runs
 python Data_API.py output2.json
 python clean_prep_data.py output2.json llama_text.json
 python Train_model.py llama_text.json llama-7b-trained
+
 python Eval_model.py llama-7b-trained
 >>> Ariana Madix Sues Tom Sandoval to Force Sale of Their House
 
